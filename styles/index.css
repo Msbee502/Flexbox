@@ -16,7 +16,6 @@
     height: 160px;
     display: flex;
     align-items: flex-end;
-    flex-direction: row;
     margin: 20px;   
 }
 
@@ -34,7 +33,8 @@
     width: 468px;
     height: 160px;
     display: flex;
-    align-items: flex-end;
+    justify-content: flex-end;
+    align-items: center;
     margin: 20px, 
 }
 .fourth-box {
@@ -43,7 +43,8 @@
     width: 468px;
     height: 160px;
     display: flex;
-    align-items: ;
+    justify-content: first baseline;
+    align-items: center;
     margin: 20px
 }
 .fifth-box {
@@ -66,56 +67,43 @@
 }
 .box-one__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
 }
 .box-two__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
 }
 .box-three__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
 }
 .box-four__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
-
 }
 .box-five__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
 }
 .box-six__box {
     background-color: #9D0208;
-    border: none
+    border: none;
     width: 78px;
     min-height: 78px;
     margin: 20px;
-    display: flex;  
-    flex-basis: 180px;
 }
