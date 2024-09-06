@@ -28,6 +28,34 @@
 }
 
 .third-box {
+    border: ;
+    background-color: #F48C06;
+    width: 468px;
+    min-height: 160px;
+    padding: 20px;
+    display: flex;
+    align-items: ;
+}
+.fourth-box {
+    border: ;
+    background-color: #F48C06;
+    width: 468px;
+    min-height: 160px;
+    padding: 20px;
+    display: flex;
+    align-items: ;
+}
+.fifth-box {
+    border: ;
+    background-color: #F48C06;
+    width: 468px;
+    min-height: 160px;
+    padding: 20px;
+    display: flex;
+    align-items: ;
+}
+.sixth-box {
+    border: ;
     background-color: #F48C06;
     width: 468px;
     min-height: 160px;
